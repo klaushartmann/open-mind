@@ -1,8 +1,0 @@
-3 // Layeranzahl 3
-2 // Layergröße 1
-2 // Layergröße 2
-1 // Layergröße 3
-0,0|0
-0,1|1
-1,0|1
-1,1|0
